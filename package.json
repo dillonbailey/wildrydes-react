@@ -1,0 +1,10 @@
+{
+  "name": "wildrydes-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dillon Bailey",
+  "license": "MIT",
+  "dependencies": {
+    "blendid": "^4.3.1"
+  }
+}
